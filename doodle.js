@@ -21,6 +21,7 @@ let doodler = {
     height : doodlerHeight
 }
 
+
 //physics
 let velocityX = 0; 
 let velocityY = 0; //doodler jump speed
